@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -26,8 +27,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
+| [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
