@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0260-single-number-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
