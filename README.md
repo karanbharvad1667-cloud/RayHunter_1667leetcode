@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0260-single-number-iii) |
