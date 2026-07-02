@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
