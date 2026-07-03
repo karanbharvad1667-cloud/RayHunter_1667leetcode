@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
