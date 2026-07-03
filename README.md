@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0054-spiral-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
