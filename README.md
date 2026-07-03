@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
