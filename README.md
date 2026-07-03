@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 ## Recursion
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
