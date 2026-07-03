@@ -10,23 +10,23 @@ class Solution {
         // return sum-numsSum;
 
         // using cyclic sort
-       int n=arr.length;
-       int i=0;
-       while(i<n){
-        if(arr[i]==i||arr[i]==n)i++;
-        else{
-            int idx=arr[i];
-            swap(arr,i,idx);
+        int n= arr.length;// becouse 1 element is missing in array
+        int i=0;
+        while(i<n){
+            if(arr[i]==i||arr[i]==n) i++;
+            else{
+                int idx=arr[i];
+                swap(arr,i,idx);
+            }
         }
-       }
-       for(int j=0;j<n;j++){
-        if(arr[j]!=j) return j;
-       }
-       return n;
+            for( i=0;i<arr.length;i++){
+                if(arr[i]!=i) return i;
+            }
+         return arr.length;
     }
     public void swap(int arr[],int i,int idx){
-        int temp =arr[i];
-        arr[i]=arr[idx];
+        int temp=arr[i];
+       arr[i]=arr[idx];
         arr[idx]=temp;
     }
 }
