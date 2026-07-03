@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0260-single-number-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
