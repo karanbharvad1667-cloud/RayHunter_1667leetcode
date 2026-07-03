@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3731-find-missing-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3731-find-missing-elements) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Dynamic Programming
 |  |
 | ------- |
