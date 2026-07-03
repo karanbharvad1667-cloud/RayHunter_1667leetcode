@@ -6,7 +6,6 @@ class Solution {
         int lo = 0, hi = n - 1;
         int f = firstidx(lo, hi, arr, target);
         int l = lastidx(lo, hi, arr, target);
-
         return new int[]{f, l};
     }
 
