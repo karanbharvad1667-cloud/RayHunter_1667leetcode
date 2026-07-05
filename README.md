@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0189-rotate-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0213-house-robber-ii) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
