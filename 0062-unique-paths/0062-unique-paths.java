@@ -1,24 +1,54 @@
 // one liner solution m+n-2Cm-1  // o(m) O(1)
+//......B.....
 class Solution {
     public int uniquePaths(int m, int n) {
-        if(m==1||n==1) return 1;
-        int[][] dp=new int[2][n];
-         for(int j=0;j<n;j++){// filling zeroth row with 1
-            dp[0][j]=1;
-         }
-         dp[1][0]=1;
-        for(int i=0;i<m-1;i++){
-            for(int j=1;j<n;j++){// filling 1 row with element
-            dp[1][j]=dp[1][j-1]+dp[0][j];
-            }
-            // copying row
-            for(int j=1;j<n;j++){// filling 1 row with element
-                dp[0][j]=dp[1][j];
-            }   
+        if (m == 1 || n == 1) return 1;
+
+        int[][] dp = new int[2][n];
+
+        for (int j = 0; j < n; j++) {
+            dp[0][j] = 1;
         }
-        return dp[1][n-1];
+
+        dp[1][0] = 1;
+
+        for (int i = 1; i < m; i++) {
+            if (i % 2 == 1) {
+                dp[1][0] = 1;
+                for (int j = 1; j < n; j++) {
+                    dp[1][j] = dp[0][j] + dp[1][j - 1];
+                }
+            } else {
+                dp[0][0] = 1;
+                for (int j = 1; j < n; j++) {
+                    dp[0][j] = dp[1][j] + dp[0][j - 1];
+                }
+            }
+        }
+       return Math.max(dp[1][n-1], dp[0][n-1]);
     }
-}  
+}
+//.....A.......
+// class Solution {
+//     public int uniquePaths(int m, int n) {
+//         if(m==1||n==1) return 1;
+//         int[][] dp=new int[2][n];
+//          for(int j=0;j<n;j++){// filling zeroth row with 1
+//             dp[0][j]=1;
+//          }
+//          dp[1][0]=1;
+//         for(int i=0;i<m-1;i++){
+//             for(int j=1;j<n;j++){// filling 1 row with element
+//             dp[1][j]=dp[1][j-1]+dp[0][j];
+//             }
+//             // copying row
+//             for(int j=1;j<n;j++){// filling 1 row with element
+//                 dp[0][j]=dp[1][j];
+//             }   
+//         }
+//         return dp[1][n-1];
+//     }
+// }  
 // class Solution {
 //     // tc=O(mn) as=o(mn)
 //     public int uniquePaths(int m, int n) {
