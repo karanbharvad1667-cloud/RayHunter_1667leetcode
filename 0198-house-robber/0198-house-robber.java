@@ -1,4 +1,5 @@
 class Solution {
+    //tabulation + space optimization
     public int rob(int[] arr) {
         int n=arr.length;
         int[]dp=new int[3];
