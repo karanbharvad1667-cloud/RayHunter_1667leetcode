@@ -1,8 +1,8 @@
 class Solution {
     public boolean isPalindrome(int n) {
 
-        if (n < 0 || (n % 10 == 0 && n != 0))
-            return false;
+        if (n <0 || (n % 10 == 0 && n != 0))return false;
+            
 
         int rev = 0;
 
