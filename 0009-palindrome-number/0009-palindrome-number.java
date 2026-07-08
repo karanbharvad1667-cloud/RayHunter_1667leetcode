@@ -1,18 +1,17 @@
-class Solution {
-    public boolean isPalindrome(int n) {
-        if (n < 0) return false;
+// class Solution {
+//     public boolean isPalindrome(int n) {
+//         if (n < 0) return false;
 
-        int temp = n;
-        int rev = 0;
+//         int temp = n;
+//         int rev = 0;
+//         while (temp > 0) {
+//             rev = rev * 10 + temp % 10;
+//             temp /= 10;
+//         }
 
-        while (temp > 0) {
-            rev = rev * 10 + temp % 10;
-            temp /= 10;
-        }
-
-        return rev == n;
-    }
-}
+//         return rev == n;
+//     }
+// }
 // class Solution {
 //     public boolean isPalindrome(int n) {
 
@@ -27,3 +26,20 @@ class Solution {
 //         return n == rev || n == rev / 10;
 //     }
 // }
+class Solution {
+    public boolean isPalindrome(int n) {
+        String s = String.valueOf(n);
+
+        int i = 0;
+        int j = s.length() - 1;
+
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j))
+                return false;
+            i++;
+            j--;
+        }
+
+        return true;
+    }
+}
