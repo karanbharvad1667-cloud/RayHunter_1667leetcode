@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
