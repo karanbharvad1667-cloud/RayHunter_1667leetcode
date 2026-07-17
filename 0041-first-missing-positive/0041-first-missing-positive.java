@@ -21,7 +21,6 @@
         }
         return ans;
     }
-
 */
 //   using cyclic sort tc=o(n) space o(1)
 class Solution {
@@ -32,9 +31,7 @@ class Solution {
         while(i<n){         
           if(arr[i]==i+1  ||  arr[i]<=0  || arr[i]>n|| arr[i]==arr[arr[i]-1]) i++;
           //1.position 2.negative or zero 3.if value>n we can not place it 4.correct position
-          else{
-            swap(arr,i,arr[i]-1);
-          }
+          else swap(arr,i,arr[i]-1);
         }
         for(i=0;i<n;i++){
          if(arr[i]!=i+1)return i+1;// i+1 becaouse o based indexing
