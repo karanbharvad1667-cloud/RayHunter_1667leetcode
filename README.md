@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0324-wiggle-sort-ii) |
 | [3731-find-missing-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3731-find-missing-elements) |
@@ -213,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
