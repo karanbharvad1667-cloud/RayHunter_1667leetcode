@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0283-move-zeroes) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Quickselect
 |  |
 | ------- |
