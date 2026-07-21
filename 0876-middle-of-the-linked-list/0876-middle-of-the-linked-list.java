@@ -1,19 +1,31 @@
 
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode temp=head;
-        ListNode t=head;
-        int size=0;
-        while(temp!=null){
-            temp=temp.next;
-            size++;
+        ListNode slow=head;
+        ListNode fast=head;
+        while( fast!=null &&fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        size=(size/2);
-        int i=0;
-        while(i<size){
-            t=t.next;
-            i++;
-        }
-        return t;
+       
+        return slow;
     }
 }
+
+// class Solution {
+//     public ListNode middleNode(ListNode head) {
+//         ListNode temp=head;
+//         ListNode t=head;
+//         int size=0;
+//         while(temp!=null){
+//             temp=temp.next;
+//             size++;
+//         }
+//         int i=0;
+//         while(i<size/2){
+//             t=t.next;
+//             i++;
+//         }
+//         return t;
+//     }
+// }
