@@ -1,7 +1,8 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
             // using recursion
-            if(head==null||head.next==null){ return head;}
+            //tc=O(n)  space=O(n)
+            if(head==null||head.next==null) return head; 
             ListNode a=head.next;
             head.next=null;
             ListNode b=reverseList(a);
@@ -10,6 +11,7 @@ class Solution {
 
 
         // itrative way
+        //tc=O(n)  space=O(1)
         //  if(head==null||head.next==null) return head;
         // ListNode c=head;
         // ListNode p=null;
@@ -22,6 +24,9 @@ class Solution {
         // }
         // return p;
         
+
+
+        //tc=O(n)  space=O(n)
         // if(head==null||head.next==null) return head;
         // ListNode temp=head;
         // ArrayList<ListNode>arr=new ArrayList<>();
@@ -34,8 +39,6 @@ class Solution {
         //     arr.get(i).next=arr.get(i-1);  
         // }
         // arr.get(0).next=null;
-        // return arr.get(n-1);
-
-        
+        // return arr.get(n-1);  
     } 
 }
