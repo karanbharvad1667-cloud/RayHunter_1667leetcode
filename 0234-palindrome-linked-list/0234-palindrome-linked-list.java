@@ -38,9 +38,7 @@ class Solution {
         int n=arr.size();
         int i=0,j=n-1;
         while(i<=j){
-            if(arr.get(i)!=arr.get(j)) return false;
-            i++;
-            j--;
+            if(arr.get(i++)!=arr.get(j--)) return false;
         }
         return true;
     }
