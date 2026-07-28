@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0242-valid-anagram) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Stack
 |  |
 | ------- |
