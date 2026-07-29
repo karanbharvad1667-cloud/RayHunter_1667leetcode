@@ -4,30 +4,24 @@ class Solution {
         if (arr == null || arr.length == 0) return ans;
         int n=arr.length;
         int m=arr[0].length;
-        int rs=0;
-        int cs=0;
-        int re=n-1;
-        int ce=m-1;
+        int rs=0,cs=0;
+        int re=n-1,ce=m-1;
         while(cs<=ce && rs<=re){
             //1 rs-->ce
-            for(int i=cs;i<=ce;i++){
-                ans.add(arr[rs][i]);   
-            }
-             rs++;
+            for(int i=cs;i<=ce;i++) ans.add(arr[rs][i]);   
+            rs++;
             //2 ce-->re
-            for(int i=rs;i<=re;i++){
-                ans.add(arr[i][ce]);
-            }
+            for(int i=rs;i<=re;i++) ans.add(arr[i][ce]);
             ce--;
             //3 ce-->cs
             if(rs<=re){
-            for(int i=ce;i>=cs;i--){ 
+            for(int i=ce;i>=cs;i--){ // corner case check row remaining or not
                 ans.add(arr[re][i]);     
                }
             }
             re--;
             // 4re-->rs
-            if(cs<=ce){
+            if(cs<=ce){// corner case check column remaining or not
             for(int i=re;i>=rs;i--){
                 ans.add(arr[i][cs]);     
             }
