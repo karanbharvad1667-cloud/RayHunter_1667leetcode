@@ -1,4 +1,3 @@
-
 class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode slow=head;
@@ -7,7 +6,6 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-       
         return slow;
     }
 }
