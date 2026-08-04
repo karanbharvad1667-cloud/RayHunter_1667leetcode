@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
