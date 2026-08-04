@@ -1,8 +1,8 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
 
-        Set<Integer> set1 = new HashSet<>();
-        Set<Integer> result = new HashSet<>();
+        HashSet<Integer> set1 = new HashSet<>();
+        HashSet<Integer> result = new HashSet<>();
 
         // Store nums1 elements
         for (int x : nums1) {
