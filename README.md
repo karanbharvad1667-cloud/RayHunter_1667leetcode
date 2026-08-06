@@ -264,18 +264,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Quicksort
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
