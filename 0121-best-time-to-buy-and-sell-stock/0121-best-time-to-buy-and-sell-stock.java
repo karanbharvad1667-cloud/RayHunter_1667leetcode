@@ -1,10 +1,12 @@
 class Solution {
-    public int maxProfit(int[] arr) {
-        int min=Integer.MAX_VALUE,maxp=0;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]<min) min=arr[i];
-            if(arr[i]-min>maxp) maxp=arr[i]-min;
+    public int maxProfit(int[] prices) {
+        int n=prices.length;
+        int maxprofit=0,mini=prices[0];
+        for(int i=0;i<n;i++){
+            int cost=prices[i]-mini;
+            maxprofit=Math.max(maxprofit,cost);
+            mini=Math.min(mini,prices[i]);
         }
-        return maxp;
+        return maxprofit;
     }
 }
