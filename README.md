@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0142-linked-list-cycle-ii) |
