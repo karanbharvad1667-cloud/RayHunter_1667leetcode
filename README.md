@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
