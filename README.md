@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -342,4 +345,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
