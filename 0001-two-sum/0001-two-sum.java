@@ -1,21 +1,16 @@
+
+// tc=O(n) sp same
 class Solution {
     public int[] twoSum(int[] arr, int target) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        for(int i=0;i<arr.length;i++){
+     HashMap<Integer,Integer> map=new HashMap<>();
+     for(int i=0;i<arr.length;i++){
+        int mising=target-arr[i];
+        if(map.containsKey(mising)) return new int[]{i,map.get(mising)}; 
         map.put(arr[i],i);
-       }
-       int brr[]=new int[2];
-       for(int i=0;i<arr.length;i++){
-           int mising=target-arr[i];
-           if(map.containsKey(mising)&&map.get(mising)!=i){
-            brr[0]=i;
-            brr[1]=map.get(mising);
-           }
-       }
-       return brr;
+     }
+       return new int[]{};
     }
 }
-
 
 
 // class Solution { // time complexity =0(n^2)
@@ -31,3 +26,20 @@ class Solution {
 //         return new int[] {}; // if no solution
 //     }
 // }
+
+// this approach for sorted array
+// class Solution {
+//     public int[] twoSum(int[] arr, int x) {
+//         int i=0;
+//         int j=arr.length-1;
+//         Arrays.sort(arr);
+//         while(i<j){
+//             int sum=arr[i]+arr[j];
+//             if(sum==x) return new int[]{i,j};
+//             else if(sum>x) j--;
+//             else i++;
+//         }
+//         return new int[]{};
+//     }
+// }
+
