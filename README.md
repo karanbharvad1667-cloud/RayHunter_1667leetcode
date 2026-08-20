@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0189-rotate-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
