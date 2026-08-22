@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
