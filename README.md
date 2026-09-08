@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Quickselect
 |  |
