@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0191-number-of-1-bits) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1929-concatenation-of-array) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0205-isomorphic-strings) |
