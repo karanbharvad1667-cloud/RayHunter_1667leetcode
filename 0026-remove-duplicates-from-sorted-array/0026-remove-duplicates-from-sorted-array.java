@@ -1,24 +1,26 @@
 class Solution {
     public int removeDuplicates(int[] arr) {
-        int slow=0;
-        for(int fast=1;fast<arr.length;fast++){
-            if(arr[fast]!=arr[slow]){
-                slow++;
-                arr[slow]=arr[fast];
+        int n=arr.length;
+        int j=1;
+        for(int i=0;i<n;i++){
+            if(arr[i]!=arr[j-1]){
+                arr[j]=arr[i];
+                j++;
             }
         }
-        return slow+1;
+        return j;
     }
 }
 // class Solution {
 //     public int removeDuplicates(int[] arr) {
-//         int idx=1;
-//         for(int i=1;i<arr.length;i++){
-//             if(arr[i]!=arr[idx-1]){
-//                 arr[idx]=arr[i];
-//                 idx++;
+//         int n=arr.length;
+//         int j=0;
+//         for(int i=1;i<n;i++){
+//             if(arr[i]!=arr[j]){
+//                 j++;
+//                 arr[j]=arr[i];
 //             }
 //         }
-//         return idx;
+//         return j+1;
 //     }
 // }
