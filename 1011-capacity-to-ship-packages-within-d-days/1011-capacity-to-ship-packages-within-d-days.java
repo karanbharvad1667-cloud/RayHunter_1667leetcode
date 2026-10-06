@@ -1,31 +1,34 @@
 class Solution {
-    public int shipWithinDays(int[] arr, int d) {
-        int max=Integer.MIN_VALUE;
+    public int shipWithinDays(int[] arr, int days) {
         int sum=0;
-        for(int ele:arr){
-            max=Math.max(max,ele);
-            sum+=ele;
+        int max=0;
+        int ans=0;
+        
+        for(int x:arr){
+            sum+=x;
+            max=Math.max(max,x);
         }
-        int lo=max, hi=sum ,ans=0;
-        while(lo<=hi){//O(n*log(sum-max))
-            int mid=lo+ (hi-lo)/2;
-            if(days(mid,arr)<=d) {
-                hi=mid-1;
+        int lo=max;
+        int hi=sum;
+        while(lo<=hi){
+            int mid=lo+(hi-lo)/2;
+            if(day(mid,arr)<=days){
                 ans=mid;
+                hi=mid-1;
             }else lo=mid+1;
         }
         return ans;
     }
-    public int days(int capacity,int[] arr) {
-        int days=1;
+    public int day(int capacity,int[]arr){
         int c=capacity;
-        for(int ele:arr){
-            if(c>=ele) c-=ele;
+        int day=1;
+        for(int x:arr){
+            if(c>=x) c-=x;
             else{
-                days++;
-                c=capacity-ele;
+                day++;
+                c=capacity-x;
             }
         }
-        return days;
+        return day;
     }
 }
