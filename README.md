@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Array
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0283-move-zeroes) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0410-split-array-largest-sum) |
