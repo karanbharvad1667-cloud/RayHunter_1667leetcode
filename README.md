@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
