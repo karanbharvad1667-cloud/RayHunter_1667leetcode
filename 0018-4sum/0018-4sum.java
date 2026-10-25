@@ -3,9 +3,9 @@ class Solution {
        int n=arr.length;
        Arrays.sort(arr);
        List<List<Integer>> ans =new ArrayList<>();
-       for(int i=0;i<n-1;i++){
+       for(int i=0;i<n-2;i++){
             if(i>0 && arr[i]==arr[i-1]) continue;
-            for(int j=i+1;j<n;j++){
+            for(int j=i+1;j<n-1;j++){
                if(j!=i+1 && arr[j]==arr[j-1]) continue;
                 int k=j+1;
                 int l=n-1;
