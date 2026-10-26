@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3731-find-missing-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Backtracking
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/karanbharvad1667-cloud/RayHunter_1667leetcode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Dynamic Programming
 |  |
